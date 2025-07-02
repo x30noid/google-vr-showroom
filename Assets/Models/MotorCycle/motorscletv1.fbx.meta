@@ -1,0 +1,855 @@
+fileFormatVersion: 2
+guid: 97608980edf927c47bd7804abd5bf392
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bezier-Kurve
+    100002: Bezier-Kurve.001
+    100004: Bezier-Kurve.002
+    100006: Bolt
+    100008: BREMS-VORNE
+    100010: BREMS-VORNE.001
+    100012: Buji
+    100014: Buji.001
+    100016: Buji.002
+    100018: Buji.003
+    100020: Camera
+    100022: Chamurlujk
+    100024: chamurluk-vorne
+    100026: EKSOZ-METAL
+    100028: EKSOZ-METAL.003
+    100030: eLLIK
+    100032: ELLIK_r
+    100034: "Fl\xE4che"
+    100036: "Fl\xE4che.001"
+    100038: "Fl\xE4che.002"
+    100040: "Fl\xE4che.003"
+    100042: fREN CUNTASI
+    100044: fREN CUNTASI.001
+    100046: "fREN EL BNREMSFl\xE4che.004"
+    100048: "G\xD6STERGE"
+    100050: "G\xD6STERGE.001"
+    100052: Kugel
+    100054: Kugel.001
+    100056: Kugel.002
+    100058: Kugel.003
+    100060: Kugel.037
+    100062: Kugel.047
+    100064: Kugel.064
+    100066: Kugel.068
+    100068: Kugel.069
+    100070: Kugel.070
+    100072: Kugel.102
+    100074: Kugel.104
+    100076: Kugel.106
+    100078: Kugel.138
+    100080: Kugel.140
+    100082: LAMPE
+    100084: lampe-vorne
+    100086: lampe-vorne.001
+    100088: LAMPE.001
+    100090: mil-hintern-rad
+    100092: mil-hintern-rad.001
+    100094: //RootNode
+    100096: NurbsPath
+    100098: Punkt
+    100100: schraube-hintern-rad
+    100102: schraube-hintern-rad-1
+    100104: schraube-hintern-rad-1.001
+    100106: schraube-hintern-rad.001
+    100108: sitz-platz
+    100110: steuer-mil
+    100112: steuer-mil-oben
+    100114: steuer-mil-onten
+    100116: steuer-vorne
+    100118: Torus.002
+    100120: "W\xFCrfel"
+    100122: "W\xFCrfel.002"
+    100124: "W\xFCrfel.003"
+    100126: "W\xFCrfel.004"
+    100128: "W\xFCrfel.005"
+    100130: YAy
+    100132: zintz-platz-1
+    100134: Zylinder
+    100136: zylinder-hintern-rad
+    100138: zylinder-hintern-rad.001
+    100140: Zylinder.001
+    100142: Zylinder.002
+    100144: Zylinder.003
+    100146: Zylinder.004
+    100148: Zylinder.005
+    100150: Zylinder.006
+    100152: Zylinder.007
+    100154: Zylinder.008
+    100156: Zylinder.009
+    100158: Zylinder.010
+    100160: Zylinder.011
+    100162: Zylinder.012
+    400000: Bezier-Kurve
+    400002: Bezier-Kurve.001
+    400004: Bezier-Kurve.002
+    400006: Bolt
+    400008: BREMS-VORNE
+    400010: BREMS-VORNE.001
+    400012: Buji
+    400014: Buji.001
+    400016: Buji.002
+    400018: Buji.003
+    400020: Camera
+    400022: Chamurlujk
+    400024: chamurluk-vorne
+    400026: EKSOZ-METAL
+    400028: EKSOZ-METAL.003
+    400030: eLLIK
+    400032: ELLIK_r
+    400034: "Fl\xE4che"
+    400036: "Fl\xE4che.001"
+    400038: "Fl\xE4che.002"
+    400040: "Fl\xE4che.003"
+    400042: fREN CUNTASI
+    400044: fREN CUNTASI.001
+    400046: "fREN EL BNREMSFl\xE4che.004"
+    400048: "G\xD6STERGE"
+    400050: "G\xD6STERGE.001"
+    400052: Kugel
+    400054: Kugel.001
+    400056: Kugel.002
+    400058: Kugel.003
+    400060: Kugel.037
+    400062: Kugel.047
+    400064: Kugel.064
+    400066: Kugel.068
+    400068: Kugel.069
+    400070: Kugel.070
+    400072: Kugel.102
+    400074: Kugel.104
+    400076: Kugel.106
+    400078: Kugel.138
+    400080: Kugel.140
+    400082: LAMPE
+    400084: lampe-vorne
+    400086: lampe-vorne.001
+    400088: LAMPE.001
+    400090: mil-hintern-rad
+    400092: mil-hintern-rad.001
+    400094: //RootNode
+    400096: NurbsPath
+    400098: Punkt
+    400100: schraube-hintern-rad
+    400102: schraube-hintern-rad-1
+    400104: schraube-hintern-rad-1.001
+    400106: schraube-hintern-rad.001
+    400108: sitz-platz
+    400110: steuer-mil
+    400112: steuer-mil-oben
+    400114: steuer-mil-onten
+    400116: steuer-vorne
+    400118: Torus.002
+    400120: "W\xFCrfel"
+    400122: "W\xFCrfel.002"
+    400124: "W\xFCrfel.003"
+    400126: "W\xFCrfel.004"
+    400128: "W\xFCrfel.005"
+    400130: YAy
+    400132: zintz-platz-1
+    400134: Zylinder
+    400136: zylinder-hintern-rad
+    400138: zylinder-hintern-rad.001
+    400140: Zylinder.001
+    400142: Zylinder.002
+    400144: Zylinder.003
+    400146: Zylinder.004
+    400148: Zylinder.005
+    400150: Zylinder.006
+    400152: Zylinder.007
+    400154: Zylinder.008
+    400156: Zylinder.009
+    400158: Zylinder.010
+    400160: Zylinder.011
+    400162: Zylinder.012
+    2000000: Camera
+    2100000: Material.060
+    2100002: Material.061
+    2100004: Material.062
+    2100006: No Name
+    2100008: Material.055
+    2100010: Material.040
+    2100012: Material.050
+    2100014: Material.051
+    2100016: Material.057
+    2100018: Material.034
+    2100020: Material.027
+    2100022: Material.004
+    2100024: Material.028
+    2100026: Material.032
+    2100028: Material.026
+    2100030: Material.031
+    2100032: Material.029
+    2100034: Material.030
+    2100036: Material.025
+    2100038: Material.024
+    2100040: Material.023
+    2100042: Material.005
+    2100044: Material.033
+    2100046: Material.065
+    2100048: Material.066
+    2100050: Material.019
+    2100052: Material.039
+    2100054: Material.007
+    2100056: Material.059
+    2100058: Material.058
+    2100060: Material.006
+    2100062: Material.011
+    2100064: Material.010
+    2100066: Material.001
+    2100068: Material.015
+    2100070: Material.014
+    2100072: Material.016
+    2100074: Material.018
+    2100076: Material.020
+    2100078: Material.052
+    2100080: Material
+    2100082: Material.009
+    2100084: Material.017
+    2100086: Material.063
+    2100088: Material.064
+    2100090: Material.013
+    2100092: Material.036
+    2100094: Material.035
+    2100096: Material.047
+    2100098: Material.049
+    2100100: Material.041
+    2100102: Material.043
+    2100104: Material.003
+    2100106: Material.002
+    2100108: Material.042
+    2100110: Material.022
+    2100112: Material.038
+    2100114: Material.021
+    2100116: Material.008
+    2100118: Material.037
+    2300000: Bezier-Kurve
+    2300002: Bezier-Kurve.001
+    2300004: Bezier-Kurve.002
+    2300006: Bolt
+    2300008: BREMS-VORNE
+    2300010: BREMS-VORNE.001
+    2300012: Buji
+    2300014: Buji.001
+    2300016: Buji.002
+    2300018: Buji.003
+    2300020: Chamurlujk
+    2300022: chamurluk-vorne
+    2300024: EKSOZ-METAL
+    2300026: EKSOZ-METAL.003
+    2300028: eLLIK
+    2300030: ELLIK_r
+    2300032: "Fl\xE4che"
+    2300034: "Fl\xE4che.001"
+    2300036: "Fl\xE4che.002"
+    2300038: "Fl\xE4che.003"
+    2300040: fREN CUNTASI
+    2300042: fREN CUNTASI.001
+    2300044: "fREN EL BNREMSFl\xE4che.004"
+    2300046: "G\xD6STERGE"
+    2300048: "G\xD6STERGE.001"
+    2300050: Kugel
+    2300052: Kugel.001
+    2300054: Kugel.002
+    2300056: Kugel.003
+    2300058: Kugel.037
+    2300060: Kugel.047
+    2300062: Kugel.064
+    2300064: Kugel.068
+    2300066: Kugel.069
+    2300068: Kugel.070
+    2300070: Kugel.102
+    2300072: Kugel.104
+    2300074: Kugel.106
+    2300076: Kugel.138
+    2300078: Kugel.140
+    2300080: LAMPE
+    2300082: lampe-vorne
+    2300084: lampe-vorne.001
+    2300086: LAMPE.001
+    2300088: mil-hintern-rad
+    2300090: mil-hintern-rad.001
+    2300092: NurbsPath
+    2300094: schraube-hintern-rad
+    2300096: schraube-hintern-rad-1
+    2300098: schraube-hintern-rad-1.001
+    2300100: schraube-hintern-rad.001
+    2300102: sitz-platz
+    2300104: steuer-mil
+    2300106: steuer-mil-oben
+    2300108: steuer-mil-onten
+    2300110: steuer-vorne
+    2300112: Torus.002
+    2300114: "W\xFCrfel"
+    2300116: "W\xFCrfel.002"
+    2300118: "W\xFCrfel.003"
+    2300120: "W\xFCrfel.004"
+    2300122: "W\xFCrfel.005"
+    2300124: YAy
+    2300126: zintz-platz-1
+    2300128: Zylinder
+    2300130: zylinder-hintern-rad
+    2300132: zylinder-hintern-rad.001
+    2300134: Zylinder.001
+    2300136: Zylinder.002
+    2300138: Zylinder.003
+    2300140: Zylinder.004
+    2300142: Zylinder.005
+    2300144: Zylinder.006
+    2300146: Zylinder.007
+    2300148: Zylinder.008
+    2300150: Zylinder.009
+    2300152: Zylinder.010
+    2300154: Zylinder.011
+    2300156: Zylinder.012
+    3300000: Bezier-Kurve
+    3300002: Bezier-Kurve.001
+    3300004: Bezier-Kurve.002
+    3300006: Bolt
+    3300008: BREMS-VORNE
+    3300010: BREMS-VORNE.001
+    3300012: Buji
+    3300014: Buji.001
+    3300016: Buji.002
+    3300018: Buji.003
+    3300020: Chamurlujk
+    3300022: chamurluk-vorne
+    3300024: EKSOZ-METAL
+    3300026: EKSOZ-METAL.003
+    3300028: eLLIK
+    3300030: ELLIK_r
+    3300032: "Fl\xE4che"
+    3300034: "Fl\xE4che.001"
+    3300036: "Fl\xE4che.002"
+    3300038: "Fl\xE4che.003"
+    3300040: fREN CUNTASI
+    3300042: fREN CUNTASI.001
+    3300044: "fREN EL BNREMSFl\xE4che.004"
+    3300046: "G\xD6STERGE"
+    3300048: "G\xD6STERGE.001"
+    3300050: Kugel
+    3300052: Kugel.001
+    3300054: Kugel.002
+    3300056: Kugel.003
+    3300058: Kugel.037
+    3300060: Kugel.047
+    3300062: Kugel.064
+    3300064: Kugel.068
+    3300066: Kugel.069
+    3300068: Kugel.070
+    3300070: Kugel.102
+    3300072: Kugel.104
+    3300074: Kugel.106
+    3300076: Kugel.138
+    3300078: Kugel.140
+    3300080: LAMPE
+    3300082: lampe-vorne
+    3300084: lampe-vorne.001
+    3300086: LAMPE.001
+    3300088: mil-hintern-rad
+    3300090: mil-hintern-rad.001
+    3300092: NurbsPath
+    3300094: schraube-hintern-rad
+    3300096: schraube-hintern-rad-1
+    3300098: schraube-hintern-rad-1.001
+    3300100: schraube-hintern-rad.001
+    3300102: sitz-platz
+    3300104: steuer-mil
+    3300106: steuer-mil-oben
+    3300108: steuer-mil-onten
+    3300110: steuer-vorne
+    3300112: Torus.002
+    3300114: "W\xFCrfel"
+    3300116: "W\xFCrfel.002"
+    3300118: "W\xFCrfel.003"
+    3300120: "W\xFCrfel.004"
+    3300122: "W\xFCrfel.005"
+    3300124: YAy
+    3300126: zintz-platz-1
+    3300128: Zylinder
+    3300130: zylinder-hintern-rad
+    3300132: zylinder-hintern-rad.001
+    3300134: Zylinder.001
+    3300136: Zylinder.002
+    3300138: Zylinder.003
+    3300140: Zylinder.004
+    3300142: Zylinder.005
+    3300144: Zylinder.006
+    3300146: Zylinder.007
+    3300148: Zylinder.008
+    3300150: Zylinder.009
+    3300152: Zylinder.010
+    3300154: Zylinder.011
+    3300156: Zylinder.012
+    4300000: Zylinder.012
+    4300002: Zylinder.008
+    4300004: Zylinder.007
+    4300006: Zylinder
+    4300008: Buji.003
+    4300010: Buji.002
+    4300012: Buji.001
+    4300014: Buji
+    4300016: mil-hintern-rad.001
+    4300018: Kugel.003
+    4300020: Kugel.002
+    4300022: schraube-hintern-rad.001
+    4300024: schraube-hintern-rad-1.001
+    4300026: zylinder-hintern-rad.001
+    4300028: LAMPE.001
+    4300030: Bezier-Kurve.002
+    4300032: lampe-vorne.001
+    4300034: Bezier-Kurve.001
+    4300036: fREN CUNTASI.001
+    4300038: fREN CUNTASI
+    4300040: "fREN EL BNREMSFl\xE4che.004"
+    4300042: Zylinder.011
+    4300044: eLLIK
+    4300046: ELLIK_r
+    4300048: Zylinder.010
+    4300050: "Fl\xE4che.003"
+    4300052: Torus.002
+    4300054: Zylinder.009
+    4300056: NurbsPath
+    4300058: "G\xD6STERGE.001"
+    4300060: "G\xD6STERGE"
+    4300062: Zylinder.006
+    4300064: Zylinder.005
+    4300066: Bezier-Kurve
+    4300068: Kugel.140
+    4300070: "Fl\xE4che.002"
+    4300072: Kugel
+    4300074: "Fl\xE4che.001"
+    4300076: "Fl\xE4che"
+    4300078: LAMPE
+    4300080: YAy
+    4300082: Bolt
+    4300084: EKSOZ-METAL.003
+    4300086: "W\xFCrfel.005"
+    4300088: EKSOZ-METAL
+    4300090: "W\xFCrfel.004"
+    4300092: "W\xFCrfel.003"
+    4300094: Zylinder.004
+    4300096: Zylinder.003
+    4300098: Zylinder.002
+    4300100: "W\xFCrfel.002"
+    4300102: Zylinder.001
+    4300104: "W\xFCrfel"
+    4300106: BREMS-VORNE.001
+    4300108: BREMS-VORNE
+    4300110: Kugel.138
+    4300112: mil-hintern-rad
+    4300114: zylinder-hintern-rad
+    4300116: Kugel.106
+    4300118: Kugel.104
+    4300120: Kugel.001
+    4300122: schraube-hintern-rad
+    4300124: schraube-hintern-rad-1
+    4300126: Kugel.102
+    4300128: Kugel.070
+    4300130: Kugel.069
+    4300132: Kugel.068
+    4300134: Kugel.047
+    4300136: Kugel.037
+    4300138: sitz-platz
+    4300140: zintz-platz-1
+    4300142: Chamurlujk
+    4300144: chamurluk-vorne
+    4300146: lampe-vorne
+    4300148: steuer-mil-onten
+    4300150: steuer-mil
+    4300152: steuer-mil-oben
+    4300154: steuer-vorne
+    4300156: Kugel.064
+    10800000: Punkt
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 2d442420cc1b49a45b0d3c35a7a18a1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: fa474d6c82e85304396f0ad32e984c7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: aff37cc24810f524f81ad66a018065c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: f0ef093a72e87a646874b647906f8db1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 23386a41dbc38724faf09a14e9259780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 186ad50c1b025fb4bb10760ff88978a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: f47fdd58214b1b54a920173eed72d767, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: d76feabf9a023424aa79b103ade6fa69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: 845c5687d48a474479ba6c5463fec1b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: 7b8de144a8347a44b874b9f3cfc384bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: 6394668a0a2756546ad16f67ba01b50a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: 7113a0dae84a51b49b504a3679db9d2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.013
+    second: {fileID: 2100000, guid: 5a8990babeb9d6d45bbd5b8844dffe8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.014
+    second: {fileID: 2100000, guid: 035f5f25c44402e4a87d4d868d0838b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.015
+    second: {fileID: 2100000, guid: c6c42b881e8043f489b2cd21b2b3175b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.016
+    second: {fileID: 2100000, guid: a55ac9a26228ff943b8cdc7413c8b167, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.017
+    second: {fileID: 2100000, guid: 1f7a4095c09d27441bab0ecb0d29d8e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.018
+    second: {fileID: 2100000, guid: 1173217f71d576949a376a07f4909ffa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.019
+    second: {fileID: 2100000, guid: ddca623e660beaa4eabe140601e5ba72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.020
+    second: {fileID: 2100000, guid: 3e7b6ed0ab71ff14dbb75e5df013ed73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.021
+    second: {fileID: 2100000, guid: 916ea36e092b223408d8e31b21fb8c6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.022
+    second: {fileID: 2100000, guid: 441bcae32dd118c4dbb85979cc8d0ca6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.023
+    second: {fileID: 2100000, guid: f9a08a0289c235c4aaffef3ed32607f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.024
+    second: {fileID: 2100000, guid: 36778cdaa5466b24e98a9f9b563adfcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.025
+    second: {fileID: 2100000, guid: e25c114f5868ad24fa93ac3e6afe4af8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.026
+    second: {fileID: 2100000, guid: 9513398ddb5645c4cb6ebb22b0118912, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.027
+    second: {fileID: 2100000, guid: de162ac05cc73cc49b933a465cbc851c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.028
+    second: {fileID: 2100000, guid: e368bcf4843e283408b43eb54013a11e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.029
+    second: {fileID: 2100000, guid: b4d71d8dc3775144eb20eabad9f2f50b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.030
+    second: {fileID: 2100000, guid: 7d851c1ab2fdb0f4db22bcbb51a6ba28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.031
+    second: {fileID: 2100000, guid: b29015fc42a4c8f48a0bd0b626f134f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.032
+    second: {fileID: 2100000, guid: 2f46f607f708ef749afadbbba6efd706, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.033
+    second: {fileID: 2100000, guid: 90377a890dc0a50478362063d50d98ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.034
+    second: {fileID: 2100000, guid: 71b8d967440db1b43aade0445a1efe9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.035
+    second: {fileID: 2100000, guid: bb9c0bb1952252b4b9c78f2e91a1771a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.036
+    second: {fileID: 2100000, guid: 2acbf0a2a6a7f324bbf24421c0259f3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.037
+    second: {fileID: 2100000, guid: 0d10b7e9cba3edb44bbe1a97f3eaacda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.038
+    second: {fileID: 2100000, guid: cee3ba86235e9a744a1f7c4565a8a2f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.039
+    second: {fileID: 2100000, guid: 6cb1861109dddea45bd6c5a4a0fc7f90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.040
+    second: {fileID: 2100000, guid: 912a8e117d8e9c442936f1bafa39a726, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.041
+    second: {fileID: 2100000, guid: 09f8f9220b93e204d9cb0ae0d886f51d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.042
+    second: {fileID: 2100000, guid: 8ddbe279ee16599489df03cfc46e1eb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.043
+    second: {fileID: 2100000, guid: 6154032dfa3d9fc419849b3152a5462e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.047
+    second: {fileID: 2100000, guid: 44a7f2578a803b44bb9aea82dfd87ec3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.049
+    second: {fileID: 2100000, guid: ea59b048609413c4ca6c44170428603c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.050
+    second: {fileID: 2100000, guid: e2435528605bad44da0862e0087e8b68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.051
+    second: {fileID: 2100000, guid: 2902298554f781340b23e44a87c75ea1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.052
+    second: {fileID: 2100000, guid: b415e528d40d85143b7b2dd38f18e35e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.055
+    second: {fileID: 2100000, guid: 743cf7f75f4a19e4e92228cbded1e2de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.057
+    second: {fileID: 2100000, guid: 71ef656cd4806ab46b8165ee8c79f495, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.058
+    second: {fileID: 2100000, guid: 22f5bf835d8755f49ad44483fcf0df91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.059
+    second: {fileID: 2100000, guid: 3cfa9acf4cb0ede45be8af15876f3296, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.060
+    second: {fileID: 2100000, guid: 5fc929abac6d43d4a8bd3fcbc30607e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.061
+    second: {fileID: 2100000, guid: 210fecaa12b610341b1a62f7aa76bb32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.062
+    second: {fileID: 2100000, guid: f6db9bdde326302459afaaad9e6cbb26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.063
+    second: {fileID: 2100000, guid: 613258da4ffe6594a8da7735ac90f2d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.064
+    second: {fileID: 2100000, guid: 77ec1636567bdd442b9537e478183595, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.065
+    second: {fileID: 2100000, guid: 9f288da3d20ff1e44b0eb4f60dad309a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.066
+    second: {fileID: 2100000, guid: eaaa7f946fe7e504ba9b57c73a90628e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 288594e55a4ba5c4baaa1b1ab056bbf6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
